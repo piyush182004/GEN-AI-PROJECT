@@ -1,0 +1,2 @@
+auth_token="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"
+#my auth_token
